@@ -1,0 +1,7 @@
+<manifest>
+ 
+  <project path="apps/core/preloaded/bt-syspopup" name="apps.core.preloaded.bt-syspopup" groups="mobile" />
+  <remote review="https://review.tizen.org/gerrit" name="tizen-github" fetch="https://github.com/tizenorg" />
+  <default remote="tizen-github" sync-j="4" revision="tizen" />
+
+</manifest>
