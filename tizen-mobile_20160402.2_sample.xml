@@ -1,3 +1,3 @@
 <manifest>
-    <project name="platform.upstream.image-configurations" path="platform/upstream/image-configurations" revision="0eb04cc682a3b19c272a8ba2bbd0f6111927732f" />
-</manifest>
+    <project path="platform/upstream/image-configurations" name="platform.upstream.image-configurations" revision="0eb04cc682a3b19c272a8ba2bbd0f6111927732f" />
+<remote review="https://review.tizen.org/gerrit" name="tizen-github" fetch="https://github.com/tizenorg" /><default remote="tizen-github" sync-j="4" revision="tizen" /></manifest>
