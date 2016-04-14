@@ -1913,6 +1913,7 @@
 	<project name="platform.upstream.boost" path="platform/upstream/boost"/>
 	<project name="platform.upstream.boost-jam" path="platform/upstream/boost-jam"/>
 	<project name="platform.upstream.bootchart" path="platform/upstream/bootchart"/>
+	<project name="platform.upstream.bsdiff" path="platform/upstream/bsdiff"/>
 	<project name="platform.upstream.btrfs-progs" path="platform/upstream/btrfs-progs"/>
 	<project name="platform.upstream.build" path="platform/upstream/build"/>
 	<project name="platform.upstream.build-compare" path="platform/upstream/build-compare"/>
@@ -3270,7 +3271,7 @@
 	<project name="profile.wearable.apps.native.connectivity.bluetooth" path="profile/wearable/apps/native/connectivity/bluetooth"/>
 	<project name="profile.wearable.apps.native.idle-clock-digital" path="profile/wearable/apps/native/idle-clock-digital"/>
 	<project name="profile.wearable.apps.native.indicator-win" path="profile/wearable/apps/native/indicator-win"/>
-	<project name="profile.wearable.apps.native.taskmanger" path="profile/wearable/apps/native/taskmanger"/>
+	<project name="profile.wearable.apps.native.taskmanager" path="profile/wearable/apps/native/taskmanager"/>
 	<project name="profile.wearable.apps.native.w3-home" path="profile/wearable/apps/native/w3-home"/>
 	<project name="profile.wearable.apps.native.watch-setting" path="profile/wearable/apps/native/watch-setting"/>
 	<project name="profile.wearable.apps.web.sample.altimeter" path="profile/wearable/apps/web/sample/altimeter"/>
@@ -3599,13 +3600,15 @@
 	<project name="test.generic.wrt-widgets" path="test/generic/wrt-widgets"/>
 	<project name="test.ivi.ivi-sanity-suite" path="test/ivi/ivi-sanity-suite"/>
 	<project name="test.tct.manager" path="test/tct/manager"/>
+	<project name="test.tct.native.api" path="test/tct/native/api"/>
+	<project name="test.tct.native.behavior" path="test/tct/native/behavior"/>
 	<project name="test.tct.native.cts-datamodel" path="test/tct/native/cts-datamodel"/>
 	<project name="test.tct.native.cts-hardware-requirements" path="test/tct/native/cts-hardware-requirements"/>
 	<project name="test.tct.native.cts-hardware-sensor" path="test/tct/native/cts-hardware-sensor"/>
 	<project name="test.tct.native.cts-multimedia-codecs" path="test/tct/native/cts-multimedia-codecs"/>
 	<project name="test.tct.native.cts-platform-permission" path="test/tct/native/cts-platform-permission"/>
 	<project name="test.tct.native.cts-platform-resources" path="test/tct/native/cts-platform-resources"/>
-	<project name="test.tct.native.efl-tct" path="test/tct/native/efl-tct"/>
+	<project name="test.tct.native.efl" path="test/tct/native/efl"/>
 	<project name="test.tct.native.its-app" path="test/tct/native/its-app"/>
 	<project name="test.tct.native.its-base" path="test/tct/native/its-base"/>
 	<project name="test.tct.native.its-content" path="test/tct/native/its-content"/>
@@ -3683,16 +3686,15 @@
 	<project name="test.tct.native.uts-web-json" path="test/tct/native/uts-web-json"/>
 	<project name="test.tct.native.uts-xml" path="test/tct/native/uts-xml"/>
 	<project name="test.tct.shell" path="test/tct/shell"/>
+	<project name="test.tct.tools.ci" path="test/tct/tools/ci"/>
+	<project name="test.tct.tools.manager" path="test/tct/tools/manager"/>
+	<project name="test.tct.tools.shell" path="test/tct/tools/shell"/>
+	<project name="test.tct.tools.utilities" path="test/tct/tools/utilities"/>
 	<project name="test.tct.utilities" path="test/tct/utilities"/>
+	<project name="test.tct.web.api" path="test/tct/web/api"/>
 	<project name="test.tct.web.behavior" path="test/tct/web/behavior"/>
-	<project name="test.tct.web.manager" path="test/tct/web/manager"/>
-	<project name="test.tct.web.shell" path="test/tct/web/shell"/>
-	<project name="test.tct.web.utilities" path="test/tct/web/utilities"/>
-	<project name="test.tct.web.webapi" path="test/tct/web/webapi"/>
-	<project name="test.tct.web.webuifw" path="test/tct/web/webuifw"/>
+	<project name="test.tct.web.uifw" path="test/tct/web/uifw"/>
 	<project name="test.tct.web.wrt" path="test/tct/web/wrt"/>
-	<project name="test.testsuite.tct.native.behavior" path="test/testsuite/tct/native/behavior"/>
-	<project name="test.testsuite.tct.native.tct" path="test/testsuite/tct/native/tct"/>
 	<project name="test.tools.FtApp" path="test/tools/FtApp"/>
 	<project name="test.tools.common-suite-launcher" path="test/tools/common-suite-launcher"/>
 	<project name="test.tools.test-utility" path="test/tools/test-utility"/>
