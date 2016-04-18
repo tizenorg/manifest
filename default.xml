@@ -3480,11 +3480,11 @@
 	<project name="sdk.emulator-plugin-proxi-filter" path="sdk/emulator-plugin-proxi-filter"/>
 	<project name="sdk.emulator-plugin-proxi-proc" path="sdk/emulator-plugin-proxi-proc"/>
 	<project name="sdk.emulator-yagl" path="sdk/emulator-yagl"/>
-	<project name="sdk.emulator.emualtor-manager-resources" path="sdk/emulator/emualtor-manager-resources"/>
 	<project name="sdk.emulator.emulator-control-panel" path="sdk/emulator/emulator-control-panel"/>
 	<project name="sdk.emulator.emulator-img" path="sdk/emulator/emulator-img"/>
 	<project name="sdk.emulator.emulator-kernel" path="sdk/emulator/emulator-kernel"/>
 	<project name="sdk.emulator.emulator-manager" path="sdk/emulator/emulator-manager"/>
+	<project name="sdk.emulator.emulator-manager-resources" path="sdk/emulator/emulator-manager-resources"/>
 	<project name="sdk.emulator.emulator-storages" path="sdk/emulator/emulator-storages"/>
 	<project name="sdk.emulator.emulator-test" path="sdk/emulator/emulator-test"/>
 	<project name="sdk.emulator.event-injector" path="sdk/emulator/event-injector"/>
