@@ -19,17 +19,12 @@ To learn more about Tizen please visit website https://www.tizen.org/
 
 
 ##2) Gerrit to Github Mirroring
+Tizen source code is available in public [Gerrit server] (https://review.tizen.org/).  For the convenience of developes using Github, the Tizen repositories are mirrored to Github. Developers can download the code, test , experiement or contribute to Tizen development.
+Tizen profiles (common, mobile , wearable and IVI) repositories are mirrored to Github.
 
-The objective of this task is to make sure latest buildable Tizen repositories are available in Github for developers. So developers can fork any repo and  experiment or contribute to Tizen development. Latest buildable code can be downloaded by repo tool using manifest files in the "manifest" repo.
+A jenkin job syncs the Tizen soource code to Github every day at 12:00 KST
 
-Tizen has multiple profiles mobile, wearable, tv , common and ivi. Presently Tizen mobile profile reposotories are mirrored from gerrit to github.
-
-Currently mirroring of repos happens in following cases
-
-1) A jenkin job mirrors Tizen mobile repositories to github once in a day regularly. Please refer mobile.xml for complete list of repos
-2) When a SR is accepted , OBS makes a build and snapshot is created.. The repos in manifest xml of snapshot are synced to Github and the manifest file is added to this repo
-
-A github repo is created first time for a gerrit repo when mirroring happens. For subsequent requests only delta changes are synced to github repo.
+The latest buildable Tizen release (daily, weekly) manifests are available in this [repo] (https://github.com/tizenorg/manifest). Please refer the [daily] (https://github.com/tizenorg/manifest/tree/master/releases/daily/tizen) and [weekly] (https://github.com/tizenorg/manifest/tree/master/releases/weekly/tizen) releases. Users can download the source code of these stable releases using repo tool as described in following sections.
 
 ##3) How to Clone Tizen Source
 This section describes how to clone Tizen source over HTTPS, including the following:
@@ -113,6 +108,8 @@ To clone the release source of all projects over SSH, perform the following proc
 
     $ repo sync
 
-##4) Pull Request and merging the code to Gerrit
---------------------------------------------
+##4) Tizen source build using Docker
+TBD
+
+##5) Contributing to Tizen development.
 TBD
