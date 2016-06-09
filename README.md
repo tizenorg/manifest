@@ -19,7 +19,7 @@ To learn more about Tizen please visit website https://www.tizen.org/
 
 
 ##2) Gerrit to Github Mirroring
-Tizen source code is available in public [Gerrit server] (https://review.tizen.org/).  For the convenience of developes using Github, the Tizen repositories are mirrored to Github. Developers can download the code, test , experiement or contribute to Tizen development.
+Tizen source code is available in public [Gerrit server] (https://review.tizen.org/).  For the convenience of developers using Github, the Tizen repositories are mirrored to Github. Developers can download the code, test , experiement or contribute to Tizen development.
 Tizen profiles (common, mobile , wearable and IVI) repositories are mirrored to Github.
 
 A jenkin job syncs the Tizen soource code to Github every day at 12:00 KST
@@ -40,7 +40,7 @@ https://api.github.com/orgs/tizenorg/repos
 
 Clone the required package by executing the following command:
 
-$ git clone \[-b \<Branch\>\] https://github.com/tizenorg/\[\<Github_Project\>\]  \[\<Local_Directory\>\]
+$ git clone \[-b \<Branch\>\] https://github.com/tizenorg/ \[\<Github_Project\>\]  \[\<Local_Directory\>\]
 
 An example is shown below:
 
@@ -72,9 +72,9 @@ To prepare for cloning, perform the following procedure:
         $ cd ~/<Tizen_Project>
 
 
-####3.2.1) Cloning the Latest Source of All Projects over HTTPS
+####3.2.1) Cloning the latest source of Tizen profile over HTTPS
 
-To clone the latest source of all projects over HTTPS, perform the following procedure:
+To clone the latest source of a Tizen profile over HTTPS, perform the following procedure:
 
   1. Initialize the repository by executing one of the following commands, as appropriate:
   
