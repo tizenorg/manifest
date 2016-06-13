@@ -1,0 +1,22 @@
+<manifest>
+  
+  <project path="profile/mobile/apps/native/calendar" name="profile.mobile.apps.native.calendar" revision="45ba6fac2905d68b9de0925fe19434070d07d877" />
+  <project path="profile/mobile/apps/native/call-setting" name="profile.mobile.apps.native.call-setting" revision="b663316eb0ccf79d25ec866c9f224693c998914d" />
+  <project path="profile/mobile/apps/native/call-ui" name="profile.mobile.apps.native.call-ui" revision="79eed17c1ef46f0794ec9d339dbfa29ba228d072" />
+  <project path="profile/mobile/apps/native/camera-app" name="profile.mobile.apps.native.camera-app" revision="77e35b560349638bd7e0ad403915e6976b799364" />
+  <project path="profile/mobile/apps/native/email-app" name="profile.mobile.apps.native.email-app" revision="373542dd7322db4bacca61c7ccd8f25844e17352" />
+  <project path="profile/mobile/apps/native/homescreen-efl" name="profile.mobile.apps.native.homescreen-efl" revision="4792e6a839b40b60b5838de81040a2a2a3f396e9" />
+  <project path="profile/mobile/apps/native/lockscreen" name="profile.mobile.apps.native.lockscreen" revision="04e7ec70a58097b1ecbe3d13145586f520ce3d20" />
+  <project path="profile/mobile/apps/native/message" name="profile.mobile.apps.native.message" revision="88d273f5ac5d965d12e0eaf1f230cc4dd6ec6fe5" />
+  <project path="profile/mobile/apps/native/myfiles" name="profile.mobile.apps.native.myfiles" revision="2bf92e1d2e23609dc282e3c8ecc29c6a15760dac" />
+  <project path="profile/mobile/apps/native/phone-contacts" name="profile.mobile.apps.native.phone-contacts" revision="325218bc939656544dc7bd320fae2c6245e15470" />
+  <project path="profile/mobile/apps/native/share-panel" name="profile.mobile.apps.native.share-panel" revision="e97753377939c5c8e9e6c56809a26715bca1e4cb" />
+  <project path="profile/mobile/apps/native/taskmanager" name="profile.mobile.apps.native.taskmanager" revision="74a17f86eb22097c729d61d95c4b42abf8a9faa8" />
+  <project path="profile/mobile/apps/native/ug-gallery-efl" name="profile.mobile.apps.native.ug-gallery-efl" revision="8a0dc3a53c5f8ebef80ee5c323bc3e4e9ec45aba" />
+  <project path="profile/mobile/apps/native/ug-image-viewer-efl" name="profile.mobile.apps.native.ug-image-viewer-efl" revision="f91161a3508dd683107427280a774552cbebc285" />
+  <project path="profile/mobile/apps/native/ug-lockscreen-setting-efl" name="profile.mobile.apps.native.ug-lockscreen-setting-efl" revision="d41e19b6a15aec87a4c21ce26e2dca73f43418f5" />
+  <project path="profile/mobile/apps/native/ug-myfile-efl" name="profile.mobile.apps.native.ug-myfile-efl" revision="6666e94b4cfc052dab93dd6b5075d41f5cde9dea" />
+  <project path="profile/mobile/apps/native/ug-setting-homescreen-efl" name="profile.mobile.apps.native.ug-setting-homescreen-efl" revision="4b7ca63ac5c18b22418b101a620672d62d13c598" />
+  <project path="profile/mobile/apps/native/ug-setting-notification-efl" name="profile.mobile.apps.native.ug-setting-notification-efl" revision="d06582278e3d81abd59577383871f9b3568c672c" />
+  <project path="profile/mobile/apps/native/wallpaper-ui-service" name="profile.mobile.apps.native.wallpaper-ui-service" revision="fb0b88b17e95d6b0c5054af3898acf982ad6578d" />
+<remote review="https://review.tizen.org/gerrit" name="tizen-github" fetch="https://github.com/tizenorg" /><default remote="tizen-github" sync-j="4" revision="tizen" /></manifest>
