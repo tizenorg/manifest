@@ -1,0 +1,5 @@
+<manifest>
+  
+  <project path="profile/mobile/apps/native/ug-lockscreen-setting-efl" name="profile.mobile.apps.native.ug-lockscreen-setting-efl" revision="d41e19b6a15aec87a4c21ce26e2dca73f43418f5" />
+  <project path="profile/mobile/apps/native/ug-setting-homescreen-efl" name="profile.mobile.apps.native.ug-setting-homescreen-efl" revision="4b7ca63ac5c18b22418b101a620672d62d13c598" />
+<remote review="https://review.tizen.org/gerrit" name="tizen-github" fetch="https://github.com/tizenorg" /><default remote="tizen-github" sync-j="4" revision="tizen" /></manifest>
