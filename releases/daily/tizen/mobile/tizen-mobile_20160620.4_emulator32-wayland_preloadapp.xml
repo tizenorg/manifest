@@ -1,0 +1,13 @@
+<manifest>
+  
+  <project path="profile/mobile/apps/native/call-ui" name="profile.mobile.apps.native.call-ui" revision="31324a44570db8a8b4c503b6f5a2e43c9910836f" />
+  <project path="profile/mobile/apps/native/homescreen-efl" name="profile.mobile.apps.native.homescreen-efl" revision="ccc4ab1d2f0d7c7d2f871f19b97826665756bd2c" />
+  <project path="profile/mobile/apps/native/lockscreen" name="profile.mobile.apps.native.lockscreen" revision="e94e12aaff199146bb64033791454f3e6b089873" />
+  <project path="profile/mobile/apps/native/message" name="profile.mobile.apps.native.message" revision="1aca501a5b462cec83a68b33a105678d427b8cf5" />
+  <project path="profile/mobile/apps/native/phone-contacts" name="profile.mobile.apps.native.phone-contacts" revision="eb0acbe856b3a4af30987b5b40461184f60250a5" />
+  <project path="profile/mobile/apps/native/share-panel" name="profile.mobile.apps.native.share-panel" revision="e97753377939c5c8e9e6c56809a26715bca1e4cb" />
+  <project path="profile/mobile/apps/native/ug-gallery-efl" name="profile.mobile.apps.native.ug-gallery-efl" revision="8a0dc3a53c5f8ebef80ee5c323bc3e4e9ec45aba" />
+  <project path="profile/mobile/apps/native/ug-lockscreen-setting-efl" name="profile.mobile.apps.native.ug-lockscreen-setting-efl" revision="d41e19b6a15aec87a4c21ce26e2dca73f43418f5" />
+  <project path="profile/mobile/apps/native/ug-setting-notification-efl" name="profile.mobile.apps.native.ug-setting-notification-efl" revision="943b5c0d5b1c3a719f85a554de44531a37e65dff" />
+  <project path="profile/mobile/apps/native/wallpaper-ui-service" name="profile.mobile.apps.native.wallpaper-ui-service" revision="fb0b88b17e95d6b0c5054af3898acf982ad6578d" />
+<remote review="https://review.tizen.org/gerrit" name="tizen-github" fetch="https://github.com/tizenorg" /><default remote="tizen-github" sync-j="4" revision="tizen" /></manifest>
