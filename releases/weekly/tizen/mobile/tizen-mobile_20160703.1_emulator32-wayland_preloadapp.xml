@@ -1,0 +1,20 @@
+<manifest>
+  
+  <project path="profile/mobile/apps/native/calendar" name="profile.mobile.apps.native.calendar" revision="071cf146a6e54995de92f959902b014fc25f828c" />
+  <project path="profile/mobile/apps/native/call-ui" name="profile.mobile.apps.native.call-ui" revision="9e68eb20e3ff26862f3bb9fea8c781250e637773" />
+  <project path="profile/mobile/apps/native/camera-app" name="profile.mobile.apps.native.camera-app" revision="5cfb6ba6fece3dc855966931c1cc5977feca3d42" />
+  <project path="profile/mobile/apps/native/email-app" name="profile.mobile.apps.native.email-app" revision="48a72d84da41422c7386fec3909178456f44ffc3" />
+  <project path="profile/mobile/apps/native/gallery" name="profile.mobile.apps.native.gallery" revision="430583e74bf3cf1368cb0a51832f896fd53ba600" />
+  <project path="profile/mobile/apps/native/homescreen-efl" name="profile.mobile.apps.native.homescreen-efl" revision="a0459f0be1ca21479452bcde3e218dbe640bc2a8" />
+  <project path="profile/mobile/apps/native/lockscreen" name="profile.mobile.apps.native.lockscreen" revision="6116175f0fb81fd725730a743be53dc09afcde8d" />
+  <project path="profile/mobile/apps/native/message" name="profile.mobile.apps.native.message" revision="e3217e3983402350dad32b0a275fe86d05c281a1" />
+  <project path="profile/mobile/apps/native/music-player" name="profile.mobile.apps.native.music-player" revision="be87d52c86a063cb0b92157d4f81f409ccc5b069" />
+  <project path="profile/mobile/apps/native/myfiles" name="profile.mobile.apps.native.myfiles" revision="ba6d8e7b32590c5e1f1370143db29ae8c1c51a4e" />
+  <project path="profile/mobile/apps/native/phone-contacts" name="profile.mobile.apps.native.phone-contacts" revision="6dbf49e16bde52e328bf1782f064ab69118441b6" />
+  <project path="profile/mobile/apps/native/taskmanager" name="profile.mobile.apps.native.taskmanager" revision="8f80be4363ced0b78843097ca3b201d061480789" />
+  <project path="profile/mobile/apps/native/ug-image-viewer-efl" name="profile.mobile.apps.native.ug-image-viewer-efl" revision="ee62706be42b600e431550ff06b9543874c4de79" />
+  <project path="profile/mobile/apps/native/ug-myfile-efl" name="profile.mobile.apps.native.ug-myfile-efl" revision="ced21f781b7102fef34e7c2ba11f8a9ba5a9c5a7" />
+  <project path="profile/mobile/apps/native/ug-setting-homescreen-efl" name="profile.mobile.apps.native.ug-setting-homescreen-efl" revision="b9f1187e800f2b2c39dd655fe706ad09fa01234f" />
+  <project path="profile/mobile/apps/native/ug-setting-notification-efl" name="profile.mobile.apps.native.ug-setting-notification-efl" revision="79c8faf15f4a4a1a106f5d46c81cbef2d5714eb2" />
+  <project path="profile/mobile/apps/native/video-player" name="profile.mobile.apps.native.video-player" revision="b7ebe4097ac8d5b6a7485da5f0cb59c1e1773423" />
+<remote review="https://review.tizen.org/gerrit" name="tizen-github" fetch="https://github.com/tizenorg" /><default remote="tizen-github" sync-j="4" revision="tizen" /></manifest>
